@@ -32,7 +32,7 @@ Below is an image of the output of the District Summary Dataframe detailing out 
 ### 2. The School Performance Summary.
 The image of the School Performance Summary provides a window as to how well the fifteen (15) schools are performing against their peers, as well as breaking down by the type of schools. The top performing high schools were all charter school, while the bottom performing high schools were district schools.  
 
-![School_Summary_Info](https://user-images.githubusercontent.com/17502725/143724495-6766ecbe-f065-4f92-a780-af75cc55fb5b.PNG)
+![School_Summary_Info](https://user-images.githubusercontent.com/17502725/143725719-cba46bdb-e69e-40a4-8ba3-7a5d0af28d6b.PNG)
 
 ### 3. The top 5 performing schools, based on the overall passing rate.
 The top five performing high schools in the PyCity School District are: 
