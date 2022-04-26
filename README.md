@@ -1,7 +1,7 @@
 # School_District_Analysis
 
-## Background
-To provide further analysis on the irregulatories of Thomas High School ninth graders Math and Reading scores.  There are a few students score missing and and preventing accurate information being reportes on there overall performand in these two disciplines.  First, we will replace the the missing ninth grade scores with NaN and rerun the analysis. Second, repeat the school district analysis, and finally provide a written report.   
+## Overview
+To provide further analysis on the irregularities of Thomas High School ninth graders’ Math and Reading scores. There are a few student scores missing preventing accurate information from being reported on their overall performance in these two disciplines. First, we will replace the missing ninth-grade scores with NaN and rerun the analysis. Second, repeat the school district analysis, and finally, provide a written report.   
 
 ## Resources
 * Data Source: `PyCitySchools.ipynb` file 
